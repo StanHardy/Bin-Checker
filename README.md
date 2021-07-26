@@ -13,7 +13,7 @@
 
 ## Install
 ```
-git clone https://github.com/Malam-X/Bin-Checker
+git clone https://github.com/StanHardy/Bin-Checker
 cd Bin-Checker
 python main.py
 ```
